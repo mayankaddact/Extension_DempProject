@@ -1,0 +1,7 @@
+certificates/
+packages/
+target/
+.vs/
+src/Feature/FormsExtensions/code/obj/
+src/Feature/FormsExtensions/code/bin/
+docs/build/
